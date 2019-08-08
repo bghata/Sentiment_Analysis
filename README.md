@@ -7,7 +7,7 @@ The data was collected from “common crawl”, ”open repository of websites�
 The data has 60 attributes and 17,756 instances where each represents a website.
 The method of analysis is based on sentiment analysis on website reviews (positive to negative). 
 
-## Data pre-processing:
+## Data Pre-processing:
 
 Beside the original datasets provided by Alert Analytics, additional examination of feature variance which is exploring the features with (near-zero variance). Features with no variance can be said to hold little to no information. Features that have very little, or "near zero variance", may or may not have useful information. 
 
