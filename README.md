@@ -14,7 +14,12 @@ Beside the original datasets provided by Alert Analytics, additional examination
 Another analysis on the data was to use the Recursive Feature Elimination (RFE) which is a form of automated feature selection. RFE with random forest will try every combination of feature subsets and return a final list of recommended features.
 
 
+## Models & Algorithms Tested:
 
+-	Random Forest
+-	Weighted K-Nearest Neighbors (KKNN)
+-	Support Vector Machine (SVM)
+-	Gradient Boosting Trees
 
 
 ## Amazon Web Services:
